@@ -1,0 +1,13 @@
+
+#princesa {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#princesa, img{
+    max-height: 600px;
+    width: 600px;
+}
+
+#princesa, h3 {
+    font-size: 30px;
+}
